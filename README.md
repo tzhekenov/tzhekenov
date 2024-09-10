@@ -13,9 +13,9 @@ I am exploring advanced image similarity detection, NLP-powered applications, an
 - Work with cutting-edge technologies such as ResNet, DINOv2, CLIP, and GPT models for building sophisticated AI systems.
   
 🚀 **Recent Projects:**  
-- **Warehouse Image Similarity Detection:** Developed a computer vision-powered system to assign warehouse item IDs based on image similarity using synthetic data, ResNet, and CLIP fine-tuning. [Read more](#)
-- **Gardena AI Tools:** Built reinforcement learning models for automatic garden irrigation and equipment placement using Python and GCP. [More details](#)
-- **Real-time Lithology Detection:** Led a machine learning initiative to predict lithology during drilling operations, enhancing geosteering capabilities in oil and gas projects. [Case Study](#)
+- **Warehouse Image Similarity Detection:** Developed a computer vision-powered system to assign warehouse item IDs based on image similarity using synthetic data, ResNet, and CLIP fine-tuning.
+- **Gardena AI Tools:** Built reinforcement learning models for automatic garden irrigation and equipment placement using Python and GCP.
+- **Real-time Lithology Detection:** Led a machine learning initiative to predict lithology during drilling operations, enhancing geosteering capabilities in oil and gas projects. 
   
 💡 **I’m interested in:**  
 - Applying AI/ML models to real-world challenges, especially in image processing, computer vision, and automation.
