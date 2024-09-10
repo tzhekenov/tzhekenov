@@ -22,8 +22,7 @@ I am exploring advanced image similarity detection, NLP-powered applications, an
 - Enhancing my knowledge in advanced machine learning algorithms, including transfer learning and self-supervised learning techniques.
   
 📬 **Let's connect:**  
-- LinkedIn: [Temirlan Zhekenov](https://linkedin.com/in/temirlan-zhekenov)
-- Email: temirlan.zhekenov@alumni.nu.edu.kz
+- Email: t.zhekenov@gmail.com
 
 ---
 
