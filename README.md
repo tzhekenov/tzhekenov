@@ -1,6 +1,6 @@
 # Hi 👋, I'm Temirlan 
 
-### AI Engineer | Computer Vision Specialist | Machine Learning Enthusiast
+### AI Engineer | 
 
 With a strong passion for developing intelligent systems, I have been fortunate to work on a variety of machine learning and computer vision projects, applying cutting-edge technologies to solve complex real-world problems. My journey includes designing AI-powered solutions in industries ranging from oil & gas to logistics and e-commerce.
 
